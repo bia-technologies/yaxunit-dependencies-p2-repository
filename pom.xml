@@ -40,6 +40,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
                                             <id>jakarta.websocket:jakarta.websocket-api:2.2.0</id>
                                             <source>true</source>
                                         </artifact>
+                                        <artifact>
+                                            <id>jakarta.websocket:jakarta.websocket-client-api:2.2.0</id>
+                                            <source>true</source>
+                                        </artifact>
                                     </artifacts>
                                 </feature>
                                 <feature> <!-- Generate a feature including artifacts that are listed below inside the feature element-->
